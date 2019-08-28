@@ -3,7 +3,7 @@
 
 #keystore信息
 #Windows 下路径分割线请注意使用\\转义
-keystorePath = "..path/your.keystore"
+keystorePath = "your keystorePath"
 keyAlias = "your keyAlias"
 keystorePassword = "your keystorePassword"
 keyPassword = "your keyPassword"
@@ -19,5 +19,5 @@ channelFilePath = ""
 #额外信息配置文件（绝对路径，例如/Users/mac/Desktop/walle360/config.json）
 #配置信息示例参看https://github.com/Meituan-Dianping/walle/blob/master/app/config.json
 extraChannelFilePath = ""
-#Android SDK buidtools path , please use above 25.0+
-sdkBuildToolPath = "/Users/mac/Library/Android/sdk/build-tools/26.0.2"
+#Android SDK buidtools path , please use above 25.0+  /Users/mac/Library/Android/sdk/build-tools/26.0.2
+sdkBuildToolPath = "buildToolsPath"
